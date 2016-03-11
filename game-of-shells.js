@@ -69,8 +69,8 @@ var GameOfShells = function() {
             }
         }.bind(this));
 
-        document.getElementById('difficulty').addEventListener('change', function() {
-            this.set_difficulty(this.value);
+        document.getElementById('difficulty').addEventListener('change', function(e) {
+            this.set_difficulty(e.target.value);
         }.bind(this));
     }
 
