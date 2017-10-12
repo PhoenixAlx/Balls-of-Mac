@@ -18,7 +18,9 @@ body {
 }
 
 .container {
-    background: #62dcd1;
+    background: url("macbeth.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
     font-family: 'Permanent Marker', sans-serif;
     height: 300px;
     position: relative;
