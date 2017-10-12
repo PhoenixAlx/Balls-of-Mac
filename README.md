@@ -1,4 +1,4 @@
-#Balls-of-Mac
+# Balls-of-Mac
 
 Adaptación del juego de buscar la bola a nuestro gato favorito
 
