@@ -36,7 +36,7 @@ body {
 }
 
 .container:before {
-    content: 'Balls of MAc';
+    content: 'Balls of Mac';
     color: #fff;
     font-size: 80px;
     left: 0;
