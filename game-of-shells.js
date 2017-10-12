@@ -114,8 +114,8 @@ var GameOfShells = function() {
             this._vars.games++;
             this._vars.is_first_guess = false;
 
-            document.getElementById('wins').innerHTML = this._vars.wins + ' wins';
-            document.getElementById('games').innerHTML = this._vars.games + ' games';
+            document.getElementById('wins').innerHTML = this._vars.wins + ' bolas encontradas';
+            document.getElementById('games').innerHTML = this._vars.games + ' intentos';
         }
 
         setTimeout(function() {
