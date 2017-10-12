@@ -6,7 +6,7 @@ body {
 }
 
 body {
-    background: linear-gradient(135deg, #369, #258);
+    background: #9f89a1;
 }
 
 .game {
@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-    background: #fff;
+    background: #62dcd1;
     font-family: 'Permanent Marker', sans-serif;
     height: 300px;
     position: relative;
@@ -36,8 +36,9 @@ body {
 }
 
 .container:before {
+    font-family: "SamdanEvil";
     content: 'Balls of Mac';
-    color: #fff;
+    color: #62dcd1;
     font-size: 80px;
     left: 0;
     position: absolute;
@@ -78,7 +79,7 @@ body {
 
 .results {
     display: inline-block;
-    color: #fff;
+    color: #62dcd1;
     font-size: 1.6em;
     padding-left: 2em;
 }
