@@ -138,7 +138,7 @@ body {
 }
 
 .ball:before {
-    background: linear-gradient(135deg, #555, #000);
+    background: #62dcd1;
     border-radius: 100%;
     content: '';
     position: absolute;
